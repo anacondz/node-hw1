@@ -1,0 +1,26 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anacondz/node-hw1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anacondz/node-hw1/issues"
+  },
+  "homepage": "https://github.com/anacondz/node-hw1#readme",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nodemon": "^2.0.20",
+    "yargs": "^17.6.2"
+  }
+}
